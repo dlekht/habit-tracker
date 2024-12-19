@@ -1,5 +1,8 @@
-# **Habit Tracker**
+# **Overview**
 This is a simple web application (built with React) that helps you build and maintain positive habits. You can track your goals, monitor streaks and stay consistent with an intuitive design and user-friendly interface optimized for desktop and mobile devices. 
+
+## **Demo** ##
+https://dlekht.github.io/habit-tracker/
 
 ## **Features** ##
 - Add and Manage Habits
